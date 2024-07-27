@@ -1,0 +1,46 @@
+[
+    {
+        "id":1,
+        "content":"This is first comment",
+        "votes": 5,
+        "timestamp": "2021-06-16T10:00:00Z",
+        "replies":[
+            {
+                "id":2,
+                "content":"This is first reply to first comment",
+                "timestamp": "2021-06-16T10:00:00Z",
+                "votes": 3,
+                "replies":[]
+            },
+            {
+                "id":3,
+                "content":"This is second reply to first comment",
+                "timestamp": "2021-06-16T10:00:00Z",
+                "votes": 2,
+                "replies":[]
+            },
+            {
+                "id":4,
+                "content":"This is third reply to first comment",
+                "timestamp": "2021-06-16T10:00:00Z",
+                "votes": 8,
+                "replies":[]
+            }
+        ]
+    },
+    {
+        "id":5,
+        "content":"This is second comment",
+        "votes": 15,
+        "timestamp": "2021-06-16T10:00:00Z",
+        "replies":[
+            {
+                "id":6,
+                "content":"This is first reply to second comment",
+                "timestamp": "2021-06-16T10:00:00Z",
+                "votes": 2,
+                "replies":[]
+            }
+        ]
+    }
+]

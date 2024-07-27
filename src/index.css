@@ -1,0 +1,48 @@
+.commentbox{
+  position: relative;
+  border-radius: 20px;
+  background-color: black;
+  color: #fff;
+  border-width: 0.2em;
+  width: 80%;
+  padding:1em;
+  font-size: 15px;
+}
+
+
+button{
+  padding:0.5em ;
+  margin:2px;
+  background-color: rgb(25, 103, 239);
+  border-radius: 10px;
+  color: white;
+  border: none;
+
+}
+
+/* .submit-btn{
+  background-color: rgb(62, 62, 157);
+  margin: 2em;
+  color: aliceblue;
+  
+} */
+
+.container{
+  display: flex;
+  align-items:flex-end;
+}
+
+.box{
+  background-color: aliceblue;
+  margin: 10px;
+  padding: 10px;
+  border-left: 1px solid #ccc;
+}
+
+.maincomment{
+  font-weight: bold;
+}
+
+.info{
+  color: #555;
+}
