@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <h1>NestedComponent</h1>
+      <h1>Nested Comments</h1>
       {console.log(data)}
       <NestedComment data={data}/>
       
